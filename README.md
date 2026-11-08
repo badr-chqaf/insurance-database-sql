@@ -22,6 +22,10 @@ L'énoncé (détaillées dans le rapport) étant volontairement ambigu, une part
 3. **Modèle conceptuel (MCD)** en notation Merise.
 4. **Passage au modèle relationnel**, puis implémentation SQL avec contraintes.
 
+## MCD
+
+![Modèle conceptuel des données](mcd.png)
+
 ## Schéma relationnel
 
 Clés primaires en **gras**, clés étrangères précédées de `#`.
