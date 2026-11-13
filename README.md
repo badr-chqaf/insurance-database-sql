@@ -86,7 +86,7 @@ sqlite3 assurplus.db
 .read CHQAF_Badr_Assur+.sql
 ```
 
-Les **messages d'erreur** affichés après execution, correspondent aux insertions invalides de la partie « Tests des contraintes », que la base doit rejeter.
+Les **messages d'erreur** affichés après exécution, correspondent aux insertions invalides de la partie « Tests des contraintes », que la base doit rejeter.
 
 Le script supprime et recrée les tables à chaque exécution : il peut être relancé autant de fois que nécessaire.
 
@@ -114,4 +114,4 @@ La plupart de ces évolutions (paiements, délais, carence, historique des état
 
 ## Auteur
 
-Chqaf Badr, M1 Data Science, Aix-Marseille Université
+Badr Chqaf, M1 Data Science, Aix-Marseille Université
